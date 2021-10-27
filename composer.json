@@ -1,0 +1,19 @@
+{
+    "name": "coderex/filemanagement",
+    "description": "File Management System",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "Coderex\\Filemanagement\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Saiduzzaman Tuhin",
+            "email": "tuhinsshadow@gmail.com"
+        }
+    ],
+    "require": {
+        "php": ">7.4"
+    }
+}
